@@ -1,1 +1,1 @@
-# Hackerrank_practice
+# Python_practice
