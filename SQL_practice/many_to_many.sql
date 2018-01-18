@@ -43,7 +43,7 @@ INSERT INTO reviewers (first_name, last_name) VALUES
     ('Domingo', 'Cortes'),
     ('Colt', 'Steele'),
     ('Pinkie', 'Petit'),
-    ('Marlon', 'Crafford);
+    ('Marlon', 'Crafford');
     
 
 INSERT INTO reviews(series_id, reviewer_id, rating) 
